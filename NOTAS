@@ -1,0 +1,13 @@
+Taller 1: Nota 4.0
+    * Falta el comentario en linea del primer punto.
+    * El grado no es double ya que este tipo de dato es para numeros decimales
+    * En la línea 8 no debía usar VAR ya que ya la variable ya fue creada en la línea 6 . Solo debía asignarle un valor
+    * La variable edad debía ser declarada y luego asignarle el valor.
+    * El mensaje final está incompleto, según se pidió en el taller
+
+Taller 2: Nota 3.7
+    * No se tuvo en cuenta las indicaciones del taller
+    * variables del primer punto, y en general a lo largo del taller, nombradas incorrectamente
+    * Operacion linea 48, incorrecta, solo debían hallar el volumen
+    * operacion 55, incorrecta, la multiplicacion por 2 sobra
+    * No presentaron punto 7
