@@ -23,8 +23,7 @@ existen dos maneras de hacerlo la primera es por ventana emergente y la segunda 
 */
 var valor=prompt ("ingrese un valor"); 
 console.log ("la variable vale " + valor);
-/*constantes: son valores que no pueden ser cambiados durante la ejecucion del codigo, las constantes siempre dben de ser inicializadas*/
-π; 
+/*constantes: son valores que no pueden ser cambiados durante la ejecucion del codigo, las constantes siempre deben de ser inicializadas*/
 /*imprimir por consola*/
 console.log("...");
 console.log(valor)
@@ -94,3 +93,26 @@ nombrecito[0]="P"
 console.log(nombrecito);
 nombrecito= "mauricio";
 console.log(nombrecito);
+//Parseo o casting
+/* se trata de convertir las variables a otro tipo de datos, los cambios existentes son :
+* a entero parseInt()
+* a decimal parseFloat()
+* a cadena string() 
+*/
+//convertir variable 
+var entero1= prompt ("ingrese un entero");
+var entero2= prompt ("ingrese otro entero");
+var sumaE= entero1 + entero2
+console.log ("sin parseInt "+ sumaE);
+/* forma 1 :
+convertir el dato justo en el momento en el que se recibe por teclado
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado */
+entero1
+entero2= parseInt (prompt ("ingrese otro entero"));
+sumaE = entero1 + entero2
+console.log ("covertido "+sumaE);
+/* entero :parseInt()
+decimal :parseFloat ()
+cadena :string ()*/
+
+ 
