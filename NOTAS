@@ -1,3 +1,5 @@
+Nicole Pianeta - Isabella Agudelo
+
 Taller 1: Nota 4.0
     * Falta el comentario en linea del primer punto.
     * El grado no es double ya que este tipo de dato es para numeros decimales
@@ -11,3 +13,8 @@ Taller 2: Nota 3.7
     * Operacion linea 48, incorrecta, solo debían hallar el volumen
     * operacion 55, incorrecta, la multiplicacion por 2 sobra
     * No presentaron punto 7
+
+Taller 3 (recuperación): Nota 4
+    * Linea 24, no era division, es multiplicación con el 120.
+    * Linea 30, no es suma con (25000+(duracionclase-1) es (25000 * (duracionclase-1)
+
