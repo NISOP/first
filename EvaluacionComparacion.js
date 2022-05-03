@@ -1,3 +1,4 @@
+// Isabella Agudelo y Daniela Cordoba
 var variable = "Mostrar";
  
 if (variable= "Mostrar"){
@@ -60,3 +61,5 @@ else{
     saludo = "no tenemos disponible este idioma"
 console.log (saludo);
 }
+
+
