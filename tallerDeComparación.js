@@ -79,7 +79,7 @@ if(dia == "lunes" ){
     plato="Arroz con plato";
 }else if(dia == "martes"){
     plato="chuleta de cerdo/pollo";
-}else if(dia == "jmiercoles"){
+}else if(dia == "miercoles"){
     plato="frijoles"
  
 }else if(dia == "jueves"){
