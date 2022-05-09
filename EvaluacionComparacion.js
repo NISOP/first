@@ -1,7 +1,7 @@
 // Isabella Agudelo y Daniela Cordoba
 var variable = "Mostrar";
  
-if (variable= "Mostrar"){
+if (variable== "Mostrar"){
    console.log(variable,"La condición es verdadera")
 }
 
@@ -14,9 +14,9 @@ if (valor >= 10 && valor <= 15){
 
 var numero = "13";
  
-if (numero ==7){
+if (numero !=7){
    console.log("El número es diferente que 7");
-}else if(numero == 5){
+}else if(numero === "5"){
     console.log('El número es igual a "5" en valor y tipo');
 }else if(numero === 5 ){
     console.log("El número es igual a 5 en valor");
@@ -59,7 +59,7 @@ if(idioma == "español" ){
 }
 else{
     saludo = "no tenemos disponible este idioma"
-console.log (saludo);
 }
+console.log (saludo);
 
 
