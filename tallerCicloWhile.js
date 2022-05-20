@@ -29,7 +29,7 @@ console.log ("punto 4")
 var ciclo4 = prompt ("ingrese OK para parar");
 while (ciclo4 != "ok"){
     console.log ("dijo", ciclo4)
-    ciclo5=prompt("ingrese ok para parar") ;
+    ciclo4=prompt("ingrese ok para parar") ;
 }
 //Desarrolle un ciclo while que pida un valor numérico 
 //y se detenga hasta que ese valor sea negativo
@@ -47,7 +47,7 @@ var num1
 var num2
 while (suma <=20){
 num1 =parseInt(prompt ("ingrese  un valor"))
-num2 =parseInt (prompt (" ingrse otro valor"))
+num2 =parseInt (prompt (" ingrese otro valor"))
 suma=num1+num2; 
 }
 console.log ("punto 5");
