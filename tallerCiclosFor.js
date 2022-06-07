@@ -1,4 +1,4 @@
-/*
+
 console.log ("punto 1");
 var inicio=parseInt(prompt("ingrese un numero"));
 var fin=prompt("ingrese otro numero");
@@ -43,7 +43,7 @@ for (var i=0; i<=num2; i++){
              console.log(mayor," es el mayor")
             
 
-*/
+
 
 console.log ("punto 5")
 var arregloNombre=[];
