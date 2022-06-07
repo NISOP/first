@@ -65,4 +65,9 @@ arregloprecio.push (precio);
 console.log ("punto 6")
 
 var producto = prompt ("¿ de cual articulo desea saber el precio" + arregloNombre);
-console.log ("el precio de " + producto + " es "+ arregloprecio)
+for (var i=0; i<arregloNombre.length; i++){
+    if(arregloNombre[i]==producto){
+        console.log ("el precio de "+ producto+ " es $ "+arregloprecio[i]);
+    }
+    
+    }
