@@ -39,3 +39,7 @@ examen while: nota 3.5
     * linea 67, condicion incorrecta
     * linea 70, condicion incorrecta
     * linea 104, si es >= debe abrirse curso
+
+ciclo for: nota 4
+    * primer punto, los numeros que ingresa el usuario puede ser en desorden y deben imprimirse en orden
+    * punto 4, si el arreglo se llena de números negativos, no va a obtener el mayor de ellos porque cero es mayor que todos.
