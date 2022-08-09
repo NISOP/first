@@ -20,8 +20,7 @@ var num1=parseInt(prompt("ingrese un numero que desea multiplicar"));
 var num2=prompt("ingrese el numero hasta donde se multiplicara");
 for (var i=0; i<=num2; i++){
 
-    console.log (num1 + "x" + i + "="+num1*i  
-    
+    console.log (num1 + "x" + i + "="+num1*i 
     )
 }
 
