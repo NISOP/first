@@ -29,4 +29,20 @@ Enlace examen: https://acortar.link/a0gxi0
 Examen: Nota 4.7
     * Linea 21, solo debía tener ==
     * Linea 30, incorrecta
+<<<<<<< HEAD
     
+=======
+
+taller while: nota 5
+    * punto 8 y 9 no están resueltos
+
+examen while: nota 3.5
+    * linea 39, debía ser igual a cero.
+    * linea 55, debía ser igual a cero.
+    * linea 67, condicion incorrecta
+    * linea 70, condicion incorrecta
+    * linea 104, si es >= debe abrirse curso
+
+ciclo for: nota 4
+    * primer punto, los numeros que ingresa el usuario puede ser en desorden y deben imprimirse en orden
+    * punto 4, si el arreglo se llena de números negativos, no va a obtener el mayor de ellos porque cero es mayor que todos.
